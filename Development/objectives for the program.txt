@@ -1,0 +1,3 @@
+objectives - make sure the program will NEVER crash no matter what is given to it 
+make the code resueable - methord key parts of the code not stuff that is never gonna be resued 
+comment /// and methord comment this is really really important
